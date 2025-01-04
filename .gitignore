@@ -1,0 +1,6 @@
+*.log
+build/
+dist/
+nbproject/
+*.mf
+/build/
