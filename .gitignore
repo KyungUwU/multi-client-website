@@ -1,3 +1,14 @@
+# Ignore log files
 *.log
+
+# Ignore Manifest files
 *.mf
 
+# Ignore Draw.io files
+*.drawio
+
+# Ignore image files
+*.png
+
+# Ignore SQL files
+*.sql
